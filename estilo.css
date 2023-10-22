@@ -1,16 +1,22 @@
-body{background-color: #dbdbdb}
+body{background-color: #dbdbdb;}
 
 h1{text-align: center;}
 
 
-p {text-align: justify;
+.p1 {text-align: justify;
     font-style:unset;
-    font;}
+    font:menu;}
 
+header {text-align:center;
+    background-color: #f79fd548;
+    border-color: #f79fd548;
+    border-width: 5px;
+    border-style:solid;}
 nav a{
         text-transform: uppercase;
         padding: 5%;
         font-weight: 300;
         font-size: 100%;
         color: #AA7339;
+        text-decoration: none ;
     }
